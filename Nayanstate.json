@@ -1,3 +1,5 @@
+rypted)   
+Your Fbstate Here:
 [
     {
         "key": "dbln",
@@ -5,8 +7,8 @@
         "domain": "facebook.com",
         "path": "/login/device-based/",
         "hostOnly": false,
-        "creation": "2025-07-13T07:20:03.432Z",
-        "lastAccessed": "2025-07-13T07:20:03.448Z"
+        "creation": "2025-07-13T14:19:46.800Z",
+        "lastAccessed": "2025-07-13T14:19:46.809Z"
     },
     {
         "key": "sb",
@@ -14,8 +16,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-07-13T07:20:03.448Z",
-        "lastAccessed": "2025-07-13T07:20:03.448Z"
+        "creation": "2025-07-13T14:19:46.809Z",
+        "lastAccessed": "2025-07-13T14:19:46.809Z"
     },
     {
         "key": "ps_l",
@@ -23,8 +25,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-07-13T07:20:03.448Z",
-        "lastAccessed": "2025-07-13T07:20:03.448Z"
+        "creation": "2025-07-13T14:19:46.809Z",
+        "lastAccessed": "2025-07-13T14:19:46.809Z"
     },
     {
         "key": "ps_n",
@@ -32,8 +34,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-07-13T07:20:03.448Z",
-        "lastAccessed": "2025-07-13T07:20:03.448Z"
+        "creation": "2025-07-13T14:19:46.809Z",
+        "lastAccessed": "2025-07-13T14:19:46.809Z"
     },
     {
         "key": "vpd",
@@ -41,8 +43,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-07-13T07:20:03.448Z",
-        "lastAccessed": "2025-07-13T07:20:03.448Z"
+        "creation": "2025-07-13T14:19:46.809Z",
+        "lastAccessed": "2025-07-13T14:19:46.809Z"
     },
     {
         "key": "datr",
@@ -50,8 +52,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-07-13T07:20:03.448Z",
-        "lastAccessed": "2025-07-13T07:20:03.448Z"
+        "creation": "2025-07-13T14:19:46.809Z",
+        "lastAccessed": "2025-07-13T14:19:46.809Z"
     },
     {
         "key": "pas",
@@ -59,8 +61,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-07-13T07:20:03.448Z",
-        "lastAccessed": "2025-07-13T07:20:03.448Z"
+        "creation": "2025-07-13T14:19:46.809Z",
+        "lastAccessed": "2025-07-13T14:19:46.809Z"
     },
     {
         "key": "locale",
@@ -68,8 +70,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-07-13T07:20:03.448Z",
-        "lastAccessed": "2025-07-13T07:20:03.448Z"
+        "creation": "2025-07-13T14:19:46.809Z",
+        "lastAccessed": "2025-07-13T14:19:46.809Z"
     },
     {
         "key": "c_user",
@@ -77,8 +79,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-07-13T07:20:03.449Z",
-        "lastAccessed": "2025-07-13T07:20:03.449Z"
+        "creation": "2025-07-13T14:19:46.809Z",
+        "lastAccessed": "2025-07-13T14:19:46.809Z"
     },
     {
         "key": "xs",
@@ -86,8 +88,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-07-13T07:20:03.449Z",
-        "lastAccessed": "2025-07-13T07:20:03.449Z"
+        "creation": "2025-07-13T14:19:46.809Z",
+        "lastAccessed": "2025-07-13T14:19:46.809Z"
     },
     {
         "key": "fr",
@@ -95,8 +97,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-07-13T07:20:03.449Z",
-        "lastAccessed": "2025-07-13T07:20:03.449Z"
+        "creation": "2025-07-13T14:19:46.809Z",
+        "lastAccessed": "2025-07-13T14:19:46.809Z"
     },
     {
         "key": "wl_cbv",
@@ -104,8 +106,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-07-13T07:20:03.449Z",
-        "lastAccessed": "2025-07-13T07:20:03.449Z"
+        "creation": "2025-07-13T14:19:46.809Z",
+        "lastAccessed": "2025-07-13T14:19:46.809Z"
     },
     {
         "key": "fbl_st",
@@ -113,7 +115,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-07-13T07:20:03.449Z",
-        "lastAccessed": "2025-07-13T07:20:03.449Z"
+        "creation": "2025-07-13T14:19:46.809Z",
+        "lastAccessed": "2025-07-13T14:19:46.809Z"
     }
 ]
+Copy to clipboard Download Fbstate.json
